@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "668938967915",
+    "project_id": "pranimitra-a50f1",
+    "storage_bucket": "pranimitra-a50f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668938967915:android:923aecde98ee4b05748a2e",
+        "android_client_info": {
+          "package_name": "com.example.pranimitraa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668938967915-k9sv50t3oirabgqjelu01gqlssfcmn7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx3IiNn5oOcu0yvwNHYJMZ-3U6OX1KElM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668938967915-k9sv50t3oirabgqjelu01gqlssfcmn7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
